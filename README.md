@@ -22,7 +22,7 @@
 
 I'm a **Systems Analyst** (2nd year, Córdoba, Argentina) specializing in **Data Analytics**. My background in backend development (C# · .NET · SQL Server) gives me a unique edge: I understand *how data is produced*, not just how to analyze it.
 
-Currently completing the **Google Data Analytics Professional Certificate** (accelerated, 3-month track).
+Currently completing the **Google Data Analytics Professional Certificate**.
 
 ```python
 profile = {
