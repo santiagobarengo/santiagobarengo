@@ -109,7 +109,7 @@ REST API + dashboard for competitive game player statistics and tactical analysi
 
 ## 📚 Currently learning
 
-- 🏅 **Google Data Analytics Certificate** — Coursera (accelerated track, 2026)
+- 🏅 **Google Data Analytics Certificate** — Coursera 
 - 📊 **Pandas & Plotly** — data manipulation and visualization
 - 🤖 **Scikit-learn** — intro to Machine Learning
 - 🌐 **English** — C1 target for technical communication
